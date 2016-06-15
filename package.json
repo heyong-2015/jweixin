@@ -1,0 +1,15 @@
+{
+  "name": "jweixin",
+  "version": "1.0.0",
+  "description": "wechat js-sdk",
+  "main": "jweixin-1.0.0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyong-2015/jweixin.git"
+  },
+  "author": "",
+  "license": "MIT"
+}
